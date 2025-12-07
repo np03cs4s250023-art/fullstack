@@ -1,0 +1,22 @@
+{
+  "movies": [
+    {
+      "id": "0ea1",
+      "title": "Inception",
+      "genre": "",
+      "year": 2010
+    },
+    {
+      "id": "1054",
+      "title": "RA ONE",
+      "genre": "SIFI",
+      "year": 2001
+    },
+    {
+      "id": "d625",
+      "title": "ASHWIN",
+      "genre": "doc",
+      "year": 2028
+    }
+  ]
+}
